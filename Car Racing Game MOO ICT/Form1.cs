@@ -19,6 +19,8 @@ namespace Car_Racing_Game_MOO_ICT
         int score;
         int carImage;
 
+        // this is a comment save me
+
         Random rand = new Random();
         Random carPosition = new Random();
 
